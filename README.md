@@ -44,6 +44,15 @@ It also has a:
 
 | Level | Name | Description | Resources |
 | --- | --- | --- | --- |
+| 1 | [Against the clock](https://projects.raspberrypi.org/en/projects/against-the-clock) | Make a timer and use it to challenge your friends | |
+| 1 | [Fortune teller](https://projects.raspberrypi.org/en/projects/fortune-teller) | Use your micro:bit to read the future! | |
+| 1 | [Frustration](https://projects.raspberrypi.org/en/projects/frustration) | Guide a wand along a course without making contact | |
+| 1 | [Interactive badge](https://projects.raspberrypi.org/en/projects/interactive-badge) | Make a badge that shows your mood | |
+| 1 | [Rate your mates](https://projects.raspberrypi.org/en/projects/rate-your-mates) | Use your micro:bit to find out your compatibility with friends! | |
+| 1 | [Reaction](https://projects.raspberrypi.org/en/projects/reaction/1) | Make a game to see who has the fastest reactions | |
+
+| Level | Name | Description | Resources |
+| --- | --- | --- | --- |
 | 1 | [Heart](https://microbit.org/projects/make-it-code-it/heart/) | Light up your micro:bit with love | [demo](https://youtu.be/cAhn7lPI6mU), [coding guide](https://youtu.be/ykpdk_qkShk) |
 | 1 | [Beating heart](https://microbit.org/projects/make-it-code-it/beating-heart/) | Make your micro:bit's heart beat using loops to create an animation. | [demo](https://youtu.be/8qzYWH10o6E), [coding guide](https://youtu.be/2yzT7_QGLLc) |
 | 1 | [Animated animals](https://microbit.org/projects/make-it-code-it/animated-animals/) | Animate your own pictures on the micro:bit display | |
@@ -61,11 +70,14 @@ It also has a:
 | 1 | [Rock, paper, scissors](https://microbit.org/projects/make-it-code-it/rock-paper-scissors/) | Play this classic game with two micro:bits and learn about selection, variables and random numbers at the same time | [demo](https://youtu.be/3nad1iFfJ8A), [coding guide](https://youtu.be/dIA06s9CZPw) |
 | 1 |  Clap hearts | Clap to animate the heart | ([demo](https://youtu.be/JYvUnb2zImk)) |
 | 1 | Bumblebee | Fly your bumblebee to see how motion affects the frequency, tempo and volume of its sound | [demo](https://youtu.be/KbB6-6Nn19U) |
-| 1 | Hold he note | Keep singing to make all the LEDs light up | [demo](https://youtu.be/cw_rDuByN_8) |
+| 1 | Hold the note | Keep singing to make all the LEDs light up | [demo](https://youtu.be/cw_rDuByN_8) |
 | 1 | Mimic | Tallk to your micro:bit and listen to it mimic the rhythm of your speech | [demo](https://youtu.be/9xpvNcYtd6Q) |
 | 1 |  Heart Beat | Press the buttons to animate the heart | - |  [code](https://scratch.mit.edu/projects/239075950/editor) | - |
 | 1 | Tilt Guitar | Make music by tilting your micro:bit | [code](https://scratch.mit.edu/projects/239075950/editor) | 
 | 1 | Ocean Adventure | Build your own controller and swim toward the saxophones | [code](https://scratch.mit.edu/projects/239075973/editor) |
+
+| Level | Name | Description | Resources |
+| --- | --- | --- | --- |
 | 2 | [Group teleporting duck](https://microbit.org/projects/make-it-code-it/group-teleporting-duck/) | Teleport ducks in a multi-player game | |
 | 2 | [Tell me a secret](https://microbit.org/projects/make-it-code-it/tell-me-a-secret/) | Use micro:bit's radio feature to answer questions in secret | |
 | 2 | [Heartbeat beacon](https://microbit.org/projects/make-it-code-it/heartbeat-beacon/) | With two micro:bits you can keep track of a precious belonging or pet using radio messages. | |
