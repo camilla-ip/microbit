@@ -61,7 +61,7 @@ It also has a:
 | 1 | [Rock, paper, scissors](https://microbit.org/projects/make-it-code-it/rock-paper-scissors/) | Play this classic game with two micro:bits and learn about selection, variables and random numbers at the same time | [demo](https://youtu.be/3nad1iFfJ8A), [coding guide](https://youtu.be/dIA06s9CZPw) |
 | 1 |  Clap hearts | Clap to animate the heart | ([demo](https://youtu.be/JYvUnb2zImk)) |
 | 1 | Bumblebee | Fly your bumblebee to see how motion affects the frequency, tempo and volume of its sound | [demo](https://youtu.be/KbB6-6Nn19U) |
-| Hold he note | Keep singing to make all the LEDs light up | [demo](https://youtu.be/cw_rDuByN_8) |
+| 1 | Hold he note | Keep singing to make all the LEDs light up | [demo](https://youtu.be/cw_rDuByN_8) |
 | 1 | Mimic | Tallk to your micro:bit and listen to it mimic the rhythm of your speech | [demo](https://youtu.be/9xpvNcYtd6Q) |
 | 1 |  Heart Beat | Press the buttons to animate the heart | - |  [code](https://scratch.mit.edu/projects/239075950/editor) | - |
 | 1 | Tilt Guitar | Make music by tilting your micro:bit | [code](https://scratch.mit.edu/projects/239075950/editor) | 
