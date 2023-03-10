@@ -17,7 +17,7 @@ It also has a:
 * lights, and
 * buttons.
 
-## Useful pages and videos
+## Useful pages and videos
 
 * [Meet the new BBC micro:bit](https://microbit.org/new-microbit/)
 * [Getting started](https://scratch.mit.edu/microbit)
@@ -26,7 +26,7 @@ It also has a:
 * [Video lessons on BBC website](https://www.bbc.co.uk/search?q=micro%3Abit&d=HOMEPAGE_PS)
 * [Lesson plans for teacher](https://microbit.org/teach/lessons/) - a sequence of tutorials
 
-## Video tutorials
+## How-it-works videos
 
   * [Meet the latest micro:bit](https://youtu.be/pIUJ4kvJ_QU) (youtube)
   * [Transferring your program to the BBC micro:bit](https://youtu.be/-FZ8yTnoozY) (youtube)
@@ -42,6 +42,8 @@ It also has a:
 
 ## Online tutorial projects
 
+### Raspberry Pi Foundation Projects
+
 | Level | Name | Description | Resources |
 | --- | --- | --- | --- |
 | 1 | [Against the clock](https://projects.raspberrypi.org/en/projects/against-the-clock) | Make a timer and use it to challenge your friends | |
@@ -50,6 +52,8 @@ It also has a:
 | 1 | [Interactive badge](https://projects.raspberrypi.org/en/projects/interactive-badge) | Make a badge that shows your mood | |
 | 1 | [Rate your mates](https://projects.raspberrypi.org/en/projects/rate-your-mates) | Use your micro:bit to find out your compatibility with friends! | |
 | 1 | [Reaction](https://projects.raspberrypi.org/en/projects/reaction/1) | Make a game to see who has the fastest reactions | |
+
+### Micro:bit projects - Beginner
 
 | Level | Name | Description | Resources |
 | --- | --- | --- | --- |
@@ -75,6 +79,8 @@ It also has a:
 | 1 |  Heart Beat | Press the buttons to animate the heart | - |  [code](https://scratch.mit.edu/projects/239075950/editor) | - |
 | 1 | Tilt Guitar | Make music by tilting your micro:bit | [code](https://scratch.mit.edu/projects/239075950/editor) | 
 | 1 | Ocean Adventure | Build your own controller and swim toward the saxophones | [code](https://scratch.mit.edu/projects/239075973/editor) |
+
+### Micro:bit projects - Intermediate and Advanced
 
 | Level | Name | Description | Resources |
 | --- | --- | --- | --- |
